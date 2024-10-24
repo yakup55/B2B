@@ -62,7 +62,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 
 #### Yapımı kaç ay sürdü
 
-Halen devam ediyor (Şuanlık 2 ay oldu)
+Halen devam ediyor
 
 #### Yazılımda kaç kişi çalışıyor
 
