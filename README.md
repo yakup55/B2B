@@ -15,7 +15,7 @@ Diğer işletmelere hizmet veya destek veren firmaları da bu iş modeline dahil
 
 **İstemci:** React, Redux
 
-**Sunucu:** Spring Boot, PostgreSql, Postman
+**Sunucu:** Java, Spring Boot, PostgreSQL, Postman
 
 **Tasarım:** Chakra UI, CoreUI
 
@@ -34,7 +34,6 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
   
 ## Yönetici Özellikleri
 - Sisteme üzerinde yer alan bütün bilgileri kontrol edebilme
-- Sisteme yeni firma ekleme 
 - Sisteme kayıt olan kullanıcılara firma ve danışman ataması yapma
 - Bütün siparişleri görme
 - Sisteme yeni yöneticiler ekleme, silme, güncelleme 
@@ -46,6 +45,8 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
 - Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
 - Bağlı olduğu kullanıcıların kişisel ve firma bilgilerini görebilme 
+- Bağlı olduğu kullanıcıların cari hesaplarını görme (Hazırlanıyor)
+- Aylık yaptığı satış carisini görme (Hazırlanıyor)
 ## Satış Danışmanı Özellikler
 
 - Profil bilgilerini güncelleme
@@ -53,7 +54,17 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
 - Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
 - Bağlı olduğu kullanıcıların kişisel ve firma bilgilerini görebilme 
-
+- Bağlı olduğu kullanıcıların cari hesaplarını görme (Hazırlanıyor)
+- Aylık yaptığı satış carisini görme (Hazırlanıyor)
+## kullanıcı Özellikler
+- Profil bilgilerini güncelleme
+- Firma bilgilerini ve bakiyesini görebilme
+- Almış olduğu ürünler ile ilgili sipariş raporlarını görebilme (Hazırlanıyor)
+- Bağlı olduğu danışman ile Canlı mesajlaşma
+- Geçmiş siparişlerini görebilme,aynı zamanda çıktı alabilme
+- Cari hesap bilgi görebilme
+- Geçmiş ödemelerini görebilme,aynı zamanda çıktı alabilme
+- Almış olduğu hizmetten dolayı memmuniyet anketi cevaplayabilme
 
 
 
@@ -62,11 +73,11 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 
 #### Yapımı kaç ay sürdü
 
-Halen devam ediyor
+- Halen devam ediyor
 
 #### Yazılımda kaç kişi çalışıyor
 
-1 Kişi
+- 1 Kişi
 
   
 ## Güvenlik
