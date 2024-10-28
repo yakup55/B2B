@@ -45,8 +45,8 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
 - Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
 - Bağlı olduğu kullanıcıların kişisel ve firma bilgilerini görebilme 
-- Bağlı olduğu kullanıcıların cari hesaplarını görme (Hazırlanıyor)
-- Aylık yaptığı satış carisini görme (Hazırlanıyor)
+- Bağlı olduğu kullanıcıların cari hesaplarını görme
+- Plasiyer aylık veya yıllık  yaptığı satış carisini görme 
 ## Satış Danışmanı Özellikler
 
 - Profil bilgilerini güncelleme
@@ -54,8 +54,8 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
 - Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
 - Bağlı olduğu kullanıcıların kişisel ve firma bilgilerini görebilme 
-- Bağlı olduğu kullanıcıların cari hesaplarını görme (Hazırlanıyor)
-- Aylık yaptığı satış carisini görme (Hazırlanıyor)
+- Bağlı olduğu kullanıcıların cari hesaplarını görme
+- Satış Danışmanı aylık veya yıllık satış carisini görme 
 ## kullanıcı Özellikler
 - Profil bilgilerini güncelleme
 - Firma bilgilerini ve bakiyesini görebilme
