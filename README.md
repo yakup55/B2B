@@ -17,6 +17,8 @@ Diğer işletmelere hizmet veya destek veren firmaları da bu iş modeline dahil
 
 **Sunucu:** Java, Spring Boot, PostgreSQL, Postman
 
+**Web Servis:** Canias , Dia
+
 **Tasarım:** Chakra UI, CoreUI
 
   
@@ -33,7 +35,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 
   
 ## Yönetici Özellikleri
-- Sisteme üzerinde yer alan bütün bilgileri kontrol edebilme
+- Sistem üzerinde yer alan bütün bilgileri kontrol edebilme
 - Sisteme kayıt olan kullanıcılara firma ve danışman ataması yapma
 - Bütün siparişleri görme
 - Sisteme yeni yöneticiler ekleme, silme, güncelleme 
@@ -41,6 +43,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 ## Plasiyer Özellikler
 
 - Profil bilgilerini güncelleme
+- Sisteme kayıt olan kullanıcılara firma ve danışman ataması yapma
 - Bağlı olduğu kullanıcılar ile Canlı mesajlaşma
 - Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
 - Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
@@ -50,6 +53,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 ## Satış Danışmanı Özellikler
 
 - Profil bilgilerini güncelleme
+- Sisteme kayıt olan kullanıcılara firma ve danışman ataması yapma
 - Bağlı olduğu kullanıcılar ile Canlı mesajlaşma
 - Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
 - Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
