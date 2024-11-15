@@ -69,7 +69,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Cari hesap bilgi görebilme
 - Geçmiş ödemelerini görebilme,aynı zamanda çıktı alabilme
 - Almış olduğu hizmetten dolayı memmuniyet anketi cevaplayabilme
-
+- Sisteme kayıtlı e-posta adresi ile şifresini sıfırlayabilme
 
 
   
