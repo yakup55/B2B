@@ -70,6 +70,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Geçmiş ödemelerini görebilme,aynı zamanda çıktı alabilme
 - Almış olduğu hizmetten dolayı memmuniyet anketi cevaplayabilme
 - Sisteme kayıtlı e-posta adresi ile şifresini sıfırlayabilme
+- Kullanıcılar, satın almak istedikleri ürünle ilgili yapay zeka motoruna danışarak ürünün neden satın alınması gerektiği konusunda öneriler alabilirler. Ayrıca, ürün hakkında daha fazla bilgi edinmek için yapay zekaya sorular sorabilir ve detaylı yanıtlar alabilirler.
 
 
   
