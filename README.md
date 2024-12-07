@@ -40,7 +40,8 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Bütün siparişleri görme
 - Sisteme yeni yöneticiler ekleme, silme, güncelleme 
 - Banka ve taksit bilgilerini yönetebilme
-## Plasiyer Özellikler
+- Material numarası ile excelden toplu ürün resmi ve adı güncelleme
+## Plasiyer/Satış Danışmanı Özellikleri
 
 - Profil bilgilerini güncelleme
 - Sisteme kayıt olan kullanıcılara firma ve danışman ataması yapma
@@ -50,16 +51,12 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Bağlı olduğu kullanıcıların kişisel ve firma bilgilerini görebilme 
 - Bağlı olduğu kullanıcıların cari hesaplarını görme
 - Aylık veya yıllık  yaptığı satış carisini görme 
-## Satış Danışmanı Özellikler
 
+## Muhasebe Özellikleri
 - Profil bilgilerini güncelleme
-- Sisteme kayıt olan kullanıcılara firma ve danışman ataması yapma
-- Bağlı olduğu kullanıcılar ile Canlı mesajlaşma
-- Bağlı olduğu kullanıcıların almış olduğu siparişleri görebilme 
-- Bağlı olduğu kullanıcılar sepetine ürün eklediği zaman kendi sepetinde görebilme, kullanıcı adına kullanıcının sepetine ürün ekleme aynı zamanda kendi sepetinde görme 
-- Bağlı olduğu kullanıcıların kişisel ve firma bilgilerini görebilme 
-- Bağlı olduğu kullanıcıların cari hesaplarını görme
-- Aylık veya yıllık satış carisini görme 
+- Tüm kullanıcıların carilerini görebilme
+- Fatura Aktarma (Hazırlanıyor)
+
 ## kullanıcı Özellikler
 - Profil bilgilerini güncelleme
 - Firma bilgilerini ve bakiyesini görebilme
@@ -71,6 +68,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen yakup.yildirim@demirotomotiv.com.t
 - Almış olduğu hizmetten dolayı memmuniyet anketi cevaplayabilme
 - Sisteme kayıtlı e-posta adresi ile şifresini sıfırlayabilme
 - Kullanıcılar, satın almak istedikleri ürünle ilgili yapay zeka motoruna danışarak ürünün neden satın alınması gerektiği konusunda öneriler alabilirler. Ayrıca, ürün hakkında daha fazla bilgi edinmek için yapay zekaya sorular sorabilir ve detaylı yanıtlar alabilirler.
+
 
 
   
